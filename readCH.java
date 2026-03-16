@@ -6,7 +6,7 @@ public class readCH {
     
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the charecter");
-        char ch=sc.next().charAt(3);
+        char ch =sc.next().charAt(3);
         System.out.println("read charecter =" +ch);
     }
 }
